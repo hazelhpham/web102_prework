@@ -39,8 +39,6 @@ function addGamesToPage(games) {
              <img src="${game.img}" alt="${game.name}" class="game-img">
              <h3 class="game-name">${game.name}</h3>
              <p class="game-description">${game.description}</p>
-             <p class="game-pledged">Pledged: $${game.pledged}</p>
-             <p class="game-goal">Goal: $${game.goal}</p>
              <p class="game-backers">Backers: ${game.backers}</p>
          `;
 
