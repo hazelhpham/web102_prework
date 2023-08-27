@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/RghyFFl' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/RghyFFl.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 
@@ -38,6 +38,10 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+- Unfamiliarity with JavaScript Syntax: Developing the app posed a challenge due to my limited familiarity with JavaScript syntax. This hindered the coding process and required extra time for research and learning to effectively implement functionality.
+
+- Navigating a Confusing Code Base: The initial stages of development were marked by difficulty in navigating the code base, which appeared to be intricate and perplexing. This complexity slowed down progress as I needed to invest additional effort to comprehend the existing structure before making modifications.
 
 ## License
 
